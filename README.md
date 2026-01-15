@@ -1,4 +1,4 @@
-                                                                        APPLICATION OF AI IN EDUCATION
+        APPLICATION OF AI IN EDUCATION
 
 The application of Artificial Intelligence in Education (AIEd) is a multifaceted field that leverages machine learning, natural language processing (NLP), and algorithms to mimic human intelligence, thereby automating administrative tasks and providing real-time feedback to create more inclusive and effective learning environments. The following sections summarise the diverse applications of AI across various educational sectors as documented in the provided files.
 1. Personalised and Adaptive Learning
